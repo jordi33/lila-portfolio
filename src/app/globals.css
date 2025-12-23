@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body { height: 100%; background: #0E0F12; color: #F4F6F8; }
+
+.gradient-text {
+  @apply bg-clip-text text-transparent;
+  background-image: linear-gradient(90deg, #B69CFF, #FF7AC8, #FFB199);
+}
+.glass {
+  @apply bg-white/5 backdrop-blur-md border border-white/10;
+}
+
+.prose-invert :where(a):not(:where(.not-prose, .not-prose *)) { color: #fff; }

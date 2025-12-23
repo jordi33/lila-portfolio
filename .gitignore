@@ -1,0 +1,20 @@
+# Dépendances
+node_modules/
+
+# Build Next.js
+.next/
+out/
+
+# Environnement
+.env*
+.env.local
+
+# Médias lourds
+public/**/*.wav
+public/**/*.mp3
+public/**/*.mov
+public/**/*.mp4
+
+# OS / editor
+.DS_Store
+.vscode/

@@ -1,0 +1,256 @@
+[
+  {
+    "slug": "duck-tp",
+    "title": "Duck TP",
+    "category": "Mixage",
+    "type": "audio",
+    "fileUrl": "/mixage/duck tp.wav",
+    "description": "Mixage de quelques titres reçus en démixage, prise en main de Pro Tools.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/mixage-duck-tp.jpg"
+  },
+  {
+    "slug": "mixage-20-mars",
+    "title": "Mixage 20 mars",
+    "category": "Mixage",
+    "type": "audio",
+    "fileUrl": "/mixage/mixage 20 mars .wav",
+    "description": "Mixage de plusieurs fichiers, travail sur les niveaux et l'équilibre des pistes.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/mixage-20-mars.jpg"
+  },
+  {
+    "slug": "mixage-copy-im-yours",
+    "title": "Mixage Copy I'm Yours",
+    "category": "Mixage",
+    "type": "audio",
+    "fileUrl": "/mixage/mixage copy i'm yours .wav",
+    "description": "Mixage complet d'un morceau avec ajustement des voix et des instruments.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/mixage-copy-im-yours.jpg"
+  },
+  {
+    "slug": "tp-mixage-20mars-reference",
+    "title": "TP Mixage 20 mars - Track Ref",
+    "category": "Mixage",
+    "type": "audio",
+    "fileUrl": "/mixage/tp mixage 20mars track ref _Reference Track-St.wav",
+    "description": "Référence pour l'exercice de mixage, travail sur le mastering et la dynamique.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/tp-mixage-20mars-reference.jpg"
+  },
+  {
+    "slug": "cover-lila-b",
+    "title": "Cover Lila B",
+    "category": "Musique",
+    "type": "audio",
+    "fileUrl": "/music/cover lila B.wav",
+    "description": "Cover musicale entièrement réalisée avec des instruments numériques.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/cover-lila-b.jpg"
+  },
+  {
+    "slug": "rec-multicabine-cache-cache-tatoo",
+    "title": "REC Multicabine - Cache Cache Tatoo",
+    "category": "Musique",
+    "type": "audio",
+    "fileUrl": "/music/REC MULTICABINE cache cache tatoo .wav",
+    "description": "Enregistrement d’un morceau en multicabine, mixage et mastering en cours.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/rec-multicabine-cache-cache-tatoo.jpg"
+  },
+  {
+    "slug": "teckel-farceur",
+    "title": "Podcast Teckel Farceur",
+    "category": "Podcast",
+    "type": "audio",
+    "fileUrl": "/podcast/teckel farceur.wav",
+    "description": "Prise en main de l'IA pour un podcast humoristique avec plusieurs personnages.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools",
+      "IA"
+    ],
+    "cover": "/images/teckel-farceur.jpg"
+  },
+  {
+    "slug": "cine-night",
+    "title": "Cine Night",
+    "category": "Radio",
+    "type": "audio",
+    "fileUrl": "/music/CINE NIGHT.wav",
+    "description": "Projet de fin de 1er semestre de 2ème année réalisé avec deux comédiennes extérieures, imitation d’une émission radio live d’environ 15 minutes.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/cine-night.jpg"
+  },
+  {
+    "slug": "sae-emission-radio-campus-2025",
+    "title": "Émission Radio Campus 2025",
+    "category": "Radio",
+    "type": "audio",
+    "fileUrl": "/podcast/SAE Emission RADIO CAMPUS 2025.wav",
+    "description": "Projet de fin de 1er semestre de 2ème année réalisé avec deux comédiennes extérieures, imitation d’une émission radio live d’environ 15 minutes.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/sae-emission-radio-campus-2025.jpg"
+  },
+  {
+    "slug": "projet-final-interview-jade-noah-lila",
+    "title": "Interview Jade, Noah, Lila",
+    "category": "Podcast",
+    "type": "audio",
+    "fileUrl": "/podcast/projet final interview jade noah lila.wav",
+    "description": "Interview de professionnels de l'art dans le cadre d’un projet scolaire.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/projet-final-interview-jade-noah-lila.jpg"
+  },
+  {
+    "slug": "projet-jade-lila-podcast-horreur",
+    "title": "Podcast Horreur - Jade & Lila",
+    "category": "Podcast",
+    "type": "audio",
+    "fileUrl": "/podcast/Projet  jade lila podcast horreur .wav",
+    "description": "Simulation de podcast réalisée en 1ère année, avec création de jingles, musique et sound design.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/projet-jade-lila-podcast-horreur.jpg"
+  },
+  {
+    "slug": "podcast-de-reference",
+    "title": "Podcast de Référence",
+    "category": "Podcast",
+    "type": "audio",
+    "fileUrl": "/podcast/podcast de reference.wav",
+    "description": "Projet de référence pour exercices de montage et mixage podcast.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/podcast-de-reference.jpg"
+  },
+  {
+    "slug": "pub-renault",
+    "title": "Pub Renault",
+    "category": "Pub audio",
+    "type": "audio",
+    "fileUrl": "/podcast/PUB RENAULT-2025-10-27-Version def.wav",
+    "description": "Simulation de pub radio réalisée rapidement aux normes avec comédiens extérieurs.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools"
+    ],
+    "cover": "/images/pub-renault.jpg"
+  },
+  {
+    "slug": "birds-dessin-anime",
+    "title": "Birds - Dessin animé",
+    "category": "Vidéo",
+    "type": "video",
+    "fileUrl": "/videos/Birds dessin anime.mov",
+    "description": "Projet d’animation sonore et vidéo réalisé à l’école.",
+    "year": 2025,
+    "tools": [
+      "Premiere Pro",
+      "After Effects"
+    ],
+    "cover": "/images/birds-dessin-anime.jpg"
+  },
+  {
+    "slug": "harry-potter-surround",
+    "title": "Harry Potter - Mixage Surround",
+    "category": "Vidéo",
+    "type": "video",
+    "fileUrl": "/videos/harry potter surround .mov",
+    "description": "Mixage en surround avec utilisation de banques de sons pour la vidéo.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools",
+      "Premiere Pro"
+    ],
+    "cover": "/images/harry-potter-surround.jpg"
+  },
+  {
+    "slug": "mennen-pub",
+    "title": "Mennen - Pub",
+    "category": "Vidéo / Pub audio",
+    "type": "video",
+    "fileUrl": "/videos/mennen pub .mov",
+    "description": "Vidéo publicitaire réalisée comme projet d’exercice avec Pro Tools.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools",
+      "Premiere Pro"
+    ],
+    "cover": "/images/mennen-pub.jpg"
+  },
+  {
+    "slug": "overwatch-dolby",
+    "title": "Overwatch - Mixage Dolby",
+    "category": "Vidéo",
+    "type": "video",
+    "fileUrl": "/videos/overwatch dolby .mov",
+    "description": "Prise en main du mixage Dolby pour le projet vidéo Overwatch.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools",
+      "Premiere Pro"
+    ],
+    "cover": "/images/overwatch-dolby.jpg"
+  },
+  {
+    "slug": "pub-orangina-lila-et-jc",
+    "title": "Pub Orangina - Lila & JC",
+    "category": "Vidéo / Pub audio",
+    "type": "video",
+    "fileUrl": "/videos/PUB ORANGINA  LILA ET JC .mov",
+    "description": "Entraînement pour projet publicitaire, réalisé rapidement.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools",
+      "Premiere Pro"
+    ],
+    "cover": "/images/pub-orangina-lila-et-jc.jpg"
+  },
+  {
+    "slug": "spot-pub-180-festival",
+    "title": "Spot Pub 180 Festival",
+    "category": "Vidéo / Pub audio",
+    "type": "video",
+    "fileUrl": "/videos/spot-pub-180-festival.mp4",
+    "description": "Projet réalisé en collaboration avec l’école de publicité ESP pour le 180 Festival.",
+    "year": 2025,
+    "tools": [
+      "Pro Tools",
+      "Premiere Pro"
+    ],
+    "cover": "/images/spot-pub-180-festival.jpg"
+  }
+]
