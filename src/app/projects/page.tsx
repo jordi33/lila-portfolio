@@ -28,6 +28,9 @@ const categoryIcons: Record<string, JSX.Element> = {
   Radio: <MicIcon fontSize="large" className="text-white/90" />,
 };
 
+const isSoundCloud = (url: string) =>
+  url.includes("soundcloud.com");
+
 // Composant Lightbox pour vidéo
 function VideoLightbox({ url }: { url: string }) {
   const [open, setOpen] = useState(false);
@@ -110,10 +113,27 @@ export default function ProjectsPage() {
             <div className="mb-4 flex flex-col items-center">
               {item.type === "audio" ? (
                 <div className="flex flex-col items-center w-full">
-                  <div className="flex items-center justify-center w-full h-40 bg-black rounded-xl mb-3">
-                    {categoryIcons[item.category] || <AudiotrackIcon fontSize="large" className="text-white/90" />}
+                  {/* <div className="flex items-center justify-center w-full h-40 bg-black rounded-xl mb-3">
+                    {categoryIcons[item.category] || (
+                      <AudiotrackIcon fontSize="large" className="text-white/90" />
+                    )}
+                  </div> */}
+
+                  <div className="w-full relative z-10">
+                    <ReactPlayer
+                      url={item.fileUrl}
+                      controls
+                      width="100%"
+                      height="110px"
+                      config={{
+                        soundcloud: {
+                          options: {
+                            visual: true
+                          }
+                        }
+                      }}
+                    />
                   </div>
-                  <audio controls className="w-full" src={item.fileUrl} />
                 </div>
               ) : (
                 <VideoLightbox url={item.fileUrl} />
