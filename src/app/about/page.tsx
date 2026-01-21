@@ -12,7 +12,7 @@ export default function AboutPage() {
           <p>📧 lilalazare12@gmail.com</p>
           <p>📱 07 68 32 92 64</p>
           <p>🌍 Bordeaux, France</p>
-          <p>🇫🇷 20 ans</p>
+          <p>🇫🇷 21 ans</p>
         </div>
       </div>
 
