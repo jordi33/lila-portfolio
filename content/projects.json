@@ -1,11 +1,11 @@
 [
   {
     "slug": "duck-tp",
-    "title": "Duck TP",
+    "title": "Mixage - Feelings",
     "category": "Mixage",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/duck-mixage/s-HsgA7p8WHKU",
-    "description": "Mixage de quelques titres reçus en démixage, prise en main de Pro Tools.",
+    "fileUrl": "https://soundcloud.com/lila6485/duck-mixage",
+    "description": "Mixage de pistes reçues démixées.",
     "year": 2025,
     "tools": [
       "Pro Tools"
@@ -13,64 +13,25 @@
     "cover": "/images/mixage-duck-tp.jpg"
   },
   {
-    "slug": "mixage-20-mars",
-    "title": "Mixage 20 mars",
+    "slug": "mixage-numbers",
+    "title": "Mixage - Numbers",
     "category": "Mixage",
     "type": "audio",
-    "fileUrl": "/mixage/mixage 20 mars .wav",
-    "description": "Mixage de plusieurs fichiers, travail sur les niveaux et l'équilibre des pistes.",
+    "fileUrl": "https://soundcloud.com/lila6485/mixage-numbers",
+    "description": "Mixage de pistes reçues démixées.",
     "year": 2025,
     "tools": [
       "Pro Tools"
     ],
-    "cover": "/images/mixage-20-mars.jpg"
-  },
-  {
-    "slug": "mixage-copy-im-yours",
-    "title": "Mixage Copy I'm Yours",
-    "category": "Mixage",
-    "type": "audio",
-    "fileUrl": "https://soundcloud.com/lateignefr/la-teigne-at-millesime-festival-2023",
-    "description": "Mixage complet d'un morceau avec ajustement des voix et des instruments.",
-    "year": 2025,
-    "tools": [
-      "Pro Tools"
-    ],
-    "cover": "/images/mixage-copy-im-yours.jpg"
-  },
-  {
-    "slug": "tp-mixage-20mars-reference",
-    "title": "TP Mixage 20 mars - Track Ref",
-    "category": "Mixage",
-    "type": "audio",
-    "fileUrl": "/mixage/tp mixage 20mars track ref _Reference Track-St.wav",
-    "description": "Référence pour l'exercice de mixage, travail sur le mastering et la dynamique.",
-    "year": 2025,
-    "tools": [
-      "Pro Tools"
-    ],
-    "cover": "/images/tp-mixage-20mars-reference.jpg"
-  },
-  {
-    "slug": "cover-lila-b",
-    "title": "Cover Lila B",
-    "category": "Musique",
-    "type": "audio",
-    "fileUrl": "/music/cover lila B.wav",
-    "description": "Cover musicale entièrement réalisée avec des instruments numériques.",
-    "year": 2025,
-    "tools": [
-      "Pro Tools"
-    ],
-    "cover": "/images/cover-lila-b.jpg"
+    "cover": "/images/mixage-numbers.jpg"
   },
   {
     "slug": "rec-multicabine-cache-cache-tatoo",
     "title": "REC Multicabine - Cache Cache Tatoo",
     "category": "Musique",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/rec-multicabine-groupe-titres-cache-cache-et-tatoo/s-C8EjOoZB8vk",
-    "description": "Enregistrement d’un morceau en multicabine, mixage et mastering en cours.",
+    "fileUrl": "https://soundcloud.com/lila6485/rec-multicabine-groupe-titres-cache-cache-et-tatoo",
+    "description": "Enregistrement de deux titres d'un groupe extérieur bordelais en multicabine, mixage et mastering en cours.",
     "year": 2025,
     "tools": [
       "Pro Tools"
@@ -82,7 +43,7 @@
     "title": "Podcast Teckel Farceur",
     "category": "Podcast",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/podcast-histoire-humoristique-aide-ia-teckels-farceurs/s-DMfbtxohj1S",
+    "fileUrl": "https://soundcloud.com/lila6485/podcast-histoire-humoristique-aide-ia-teckels-farceurs",
     "description": "Prise en main de l'IA pour un podcast humoristique avec plusieurs personnages.",
     "year": 2025,
     "tools": [
@@ -96,7 +57,7 @@
     "title": "Cine Night",
     "category": "Radio",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/emission-radio-cine-night/s-KqBFZ099fkn",
+    "fileUrl": "https://soundcloud.com/lila6485/emission-radio-cine-night",
     "description": "Projet de fin de 1er semestre de 2ème année réalisé avec deux comédiennes extérieures, imitation d’une émission radio live d’environ 15 minutes.",
     "year": 2025,
     "tools": [
@@ -109,8 +70,8 @@
     "title": "Émission Radio Campus 2025",
     "category": "Radio",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/emission-radio-campus-2025/s-bHE7gQfkwXD",
-    "description": "Projet de fin de 1er semestre de 2ème année réalisé avec deux comédiennes extérieures, imitation d’une émission radio live d’environ 15 minutes.",
+    "fileUrl": "https://soundcloud.com/lila6485/emission-radio-campus-2025",
+    "description": "Emission radio effectuée et enregistrée à la radio, Radio Campus diffusée en direct.",
     "year": 2025,
     "tools": [
       "Pro Tools"
@@ -119,11 +80,11 @@
   },
   {
     "slug": "projet-final-interview-jade-noah-lila",
-    "title": "Interview Jade, Noah, Lila",
+    "title": "Interview professionnels de l'art",
     "category": "Podcast",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/projet-interview/s-WUXNeJc7grR",
-    "description": "Interview de professionnels de l'art dans le cadre d’un projet scolaire.",
+    "fileUrl": "https://soundcloud.com/lila6485/projet-interview",
+    "description": "Interview de professionnels de l'art dans le cadre du projet de fin de premier semestre première année",
     "year": 2025,
     "tools": [
       "Pro Tools"
@@ -132,10 +93,10 @@
   },
   {
     "slug": "projet-jade-lila-podcast-horreur",
-    "title": "Podcast Horreur - Jade & Lila",
+    "title": "Podcast Horreur",
     "category": "Podcast",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/podcast-histoire-horreur/s-3JeLoKIjscD",
+    "fileUrl": "https://soundcloud.com/lila6485/podcast-histoire-horreur",
     "description": "Simulation de podcast réalisée en 1ère année, avec création de jingles, musique et sound design.",
     "year": 2025,
     "tools": [
@@ -144,24 +105,11 @@
     "cover": "/images/projet-jade-lila-podcast-horreur.jpg"
   },
   {
-    "slug": "podcast-de-reference",
-    "title": "Podcast de Référence",
-    "category": "Podcast",
-    "type": "audio",
-    "fileUrl": "/podcast/podcast de reference.wav",
-    "description": "Projet de référence pour exercices de montage et mixage podcast.",
-    "year": 2025,
-    "tools": [
-      "Pro Tools"
-    ],
-    "cover": "/images/podcast-de-reference.jpg"
-  },
-  {
     "slug": "pub-renault",
     "title": "Pub Renault",
     "category": "Pub audio",
     "type": "audio",
-    "fileUrl": "https://soundcloud.com/lila6485/pub-renault/s-jwSqU8cQTYK",
+    "fileUrl": "https://soundcloud.com/lila6485/pub-renault",
     "description": "Simulation de pub radio réalisée rapidement aux normes avec comédiens extérieurs.",
     "year": 2025,
     "tools": [
@@ -175,7 +123,7 @@
     "category": "Vidéo",
     "type": "video",
     "fileUrl": "https://youtu.be/iM7zakcrptc?si=HeW_LCpLHhLk3yoD",
-    "description": "Projet d’animation sonore et vidéo réalisé à l’école.",
+    "description": "Projet effectué à base d'enregistrements réalisés à l'école sans aucune banque de son",
     "year": 2025,
     "tools": [
       "Premiere Pro",
@@ -188,7 +136,7 @@
     "title": "Harry Potter - Mixage Surround",
     "category": "Vidéo",
     "type": "video",
-    "fileUrl": "/videos/harry potter surround .mov",
+    "fileUrl": "https://www.youtube.com/watch?v=g7_gcjLcjDs",
     "description": "Mixage en surround avec utilisation de banques de sons pour la vidéo.",
     "year": 2025,
     "tools": [
@@ -203,7 +151,7 @@
     "category": "Vidéo / Pub audio",
     "type": "video",
     "fileUrl": "https://www.youtube.com/watch?v=whHRhzHo4bM",
-    "description": "Vidéo publicitaire réalisée comme projet d’exercice avec Pro Tools.",
+    "description": "Simulation de pub, première prise en main de Pro Tools avec des banques de sons.",
     "year": 2025,
     "tools": [
       "Pro Tools",
@@ -213,11 +161,11 @@
   },
   {
     "slug": "overwatch-dolby",
-    "title": "Overwatch - Mixage Dolby",
+    "title": "Overwatch Mixage Surround",
     "category": "Vidéo",
     "type": "video",
     "fileUrl": "https://www.youtube.com/watch?v=KRtiygQqlGk",
-    "description": "Prise en main du mixage Dolby pour le projet vidéo Overwatch.",
+    "description": "Prise en main de mixage en surround",
     "year": 2025,
     "tools": [
       "Pro Tools",
@@ -227,11 +175,11 @@
   },
   {
     "slug": "pub-orangina-lila-et-jc",
-    "title": "Pub Orangina - Lila & JC",
+    "title": "Pub Orangina",
     "category": "Vidéo / Pub audio",
     "type": "video",
     "fileUrl": "https://www.youtube.com/watch?v=xUTmj6iQuW8",
-    "description": "Entraînement pour projet publicitaire, réalisé rapidement.",
+    "description": "Entraînement pour projet publicitaire réalisé en 6h.",
     "year": 2025,
     "tools": [
       "Pro Tools",
@@ -245,7 +193,7 @@
     "category": "Vidéo / Pub audio",
     "type": "video",
     "fileUrl": "https://www.youtube.com/watch?v=BHuMbt_AWxA",
-    "description": "Projet réalisé en collaboration avec l’école de publicité ESP pour le 180 Festival.",
+    "description": "Projet réalisé en collaboration avec l'école de publicité ESP dans le but d'aider à la communication du 180 festival sur le bassin d'arcachon , projet realisé en 4 jours ( tournage , montage video / son, mixage)",
     "year": 2025,
     "tools": [
       "Pro Tools",
